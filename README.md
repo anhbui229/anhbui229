@@ -6,6 +6,7 @@ Apart from this, I am working as a Data Analyst in Allianz Trade.
 
 Fast learner and a smart working person. Aiming to become a Data Scientist. Want to find the right exposure and grow. Wish to contribute to the society with my technical skills.
 
+---
 ### 📚 Topics aree covered in my master's degree
 
 -Applied Mathematics & Continuous Optimisation
@@ -26,7 +27,7 @@ Fast learner and a smart working person. Aiming to become a Data Scientist. Want
 -IT Project Management
 -Data Laws & Ethics
 
-
+---
 ## :computer: Skills
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen.png)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
