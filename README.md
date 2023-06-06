@@ -3,7 +3,7 @@
 </div>
 <p align="left"> 🌱 A data professional currently pursuing Applied master in Data Science & Artificial Intelligence from Data ScienceTech Institute (DSTI), France.
 <p align="left"> 👩🏻‍💻 Apart from this, I am working as a Data Analyst in Allianz Trade. </b>
-<p align="left"> 🚀 Fast learner and a smart working person. Aiming to become a Data Scientist. Want to find the right exposure and grow.
+<p align="left"> 🚀 Fast learner and autonomous person. Aiming to become a Data Scientist. Want to find the right exposure and grow.
 
 ---
 ## 📚 Topics are covered in my master's degree
