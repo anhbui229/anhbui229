@@ -1,31 +1,32 @@
-## 🙋🏻‍♀️ Introducing Myself
+## Hi, I'm Anh
 
 </div>
-<p align="center">I'm Anh, a data professional currently pursuing Applied master in Data Science & Artificial Intelligence from Data ScienceTech Institute (DSTI), France.
-<p align="center">Apart from this, I am working as a Data Analyst in Allianz Trade. </b>
-<p align="center">Fast learner and a smart working person. Aiming to become a Data Scientist. Want to find the right exposure and grow. Wish to contribute to the society with my technical skills.
+<p align="left"> 🌱 A data professional currently pursuing Applied master in Data Science & Artificial Intelligence from Data ScienceTech Institute (DSTI), France.
+<p align="left"> 👩🏻‍💻 Apart from this, I am working as a Data Analyst in Allianz Trade. </b>
+<p align="left"> 🚀 Fast learner and a smart working person. Aiming to become a Data Scientist. Want to find the right exposure and grow.
 
 ---
 ## 📚 Topics are covered in my master's degree
 
-</div>
-<p align="left">-Applied Mathematics & Continuous Optimisation
-<p align="left">-Statistical Analysis & Machine Learning (Python, R)
-<p align="left">-Artificial Neural Networks and Deep Learning (TensorFlow, Keras)
-<p align="left">-Agent-Based Modelling (NetLogo)
-<p align="left">-Survival Analysis (R)
-<p align="left">-Time Series Analysis (R)
+- Applied Mathematics & Continuous Optimisation
+- Statistical Analysis & Machine Learning (Python, R)
+- Artificial Neural Networks and Deep Learning (TensorFlow, Keras)
+- Agent-Based Modelling (NetLogo)
+- Survival Analysis (R)
+- Time Series Analysis (R)
 
-<p align="left">-Data Wrangling with SQL (MySQL, MSSQL)
-<p align="left">-NoSQL Graph Databases (neo4j)
-<p align="left">-The SAS Ecosystem
-<p align="left">-The Hadoop & Spark Ecosystem
-<p align="left">-AWS Cloud Computing
-<p align="left">-Software Engineering (C, C++)
-<p align="left">-Semantic Web Technologies for Data Science
+  
+- Data Wrangling with SQL (MySQL, MSSQL)
+- NoSQL Graph Databases (neo4j)
+- The SAS Ecosystem
+- The Hadoop & Spark Ecosystem
+- AWS Cloud Computing
+- Software Engineering (C, C++)
+- Semantic Web Technologies for Data Science
 
-<p align="left">-IT Project Management
-<p align="left">-Data Laws & Ethics
+  
+- IT Project Management
+- Data Laws & Ethics
 
 ---
 ## :computer: Skills
